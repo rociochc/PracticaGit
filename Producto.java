@@ -22,7 +22,7 @@ public class Producto{
         return precio;
     }
 
-    public Agregar(){}
+    public void Agregar(){}
 
-    public Eliminar(){}
+    public void Eliminar(){}
 }
